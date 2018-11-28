@@ -7,5 +7,5 @@
 - Update the $accessKeyId and $secretAccessKey with the API info from your Amazon AWIS account
 - Add the [get_site_info.php](get_site_info.php) file to your site root
 - Update the wp_redirect URL
-- Change the "network.http.redirection-limit" in Firefox to 250 by going to "about:config"
+- Change the "[network.http.redirection-limit](http://kb.mozillazine.org/Network.http.redirection-limit)" in Firefox to 250 by going to "about:config"
 - Run http://example.com/get_site_info.php?my_page_number=0
